@@ -1,0 +1,23 @@
+.slide1
+{background-color:whitesmoke;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+border-radius: 15px;
+font-size: 90%;
+text-align: center;
+padding: 10px;
+max-width: 350px;
+color:black;
+margin: 43% auto 4% auto;
+opacity: 0.85;}
+.nav{
+    text-align: center;
+}
+body{
+    background-image: url(place1.jpg);
+    align-items: center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+
+}
